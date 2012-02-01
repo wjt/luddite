@@ -1,4 +1,4 @@
-Some of my IRC contacts write like this[:](http://everything2.com/user/Akilae/writeups/Haiku):
+Some of my IRC contacts write like this[:](http://everything2.com/user/Akilae/writeups/Haiku)
 
     < Akilae> I told her and she
     < Akilae> Was like, ``oh, my god,'' and I
